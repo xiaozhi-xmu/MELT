@@ -164,7 +164,9 @@ Run taxonomy_localization.py
 $python code/taxonomy_localization.py -i resource/data.csv -d resource/kmer/ -t resource/test_name.txt  -o output/
 ``` 
 The output are ./output/predict_taxonomy.txt.
+
 Here we also provide a trained model in resource/trained_model.h5 
+
 4. back to MELT/ path
 
 ```
